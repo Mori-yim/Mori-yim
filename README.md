@@ -12,7 +12,7 @@
 
 <p align="center">
   <!-- Avatar hosted in repo at /assets/avatar.svg -->
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/avatar.svg" width="160" alt="avatar" style="border-radius:12px"/>
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/avatar.svg" width="160" alt="" style="border-radius:12px"/>
 </p>
 
 
@@ -53,7 +53,7 @@
 ## À propos
 **BIO**
 
-- 🔭 Je travaille sur : projets full-stack (Angular / Spring Boot), APIs, MLOps et modèles NLP.
+- 🔭 Je travaille sur : projets full-stack junior(Angular / Spring Boot), APIs,  et modèles NLP.
 - 🌱 Je me forme en : Deep Learning, Vision et LLM fine-tuning.
 - 👯 Je peux contribuer à : architecture backend, APIs REST, intégration IA.
 - 📫 Contact : EMAIL — [Portfolio](PORTFOLIO_URL)
@@ -107,9 +107,11 @@
 |---|---:|---|
 | Projet A — Plateforme réservation | Angular, Spring Boot, MySQL | CRUD, Auth JWT, Paiement STRIPE |
 | Projet B — TodoList Avancée | Java Swing + SQLite | Export .jar, Installateur, Mode sombre |
-| Projet C — Fine-tuning NLP | Python, PyTorch | Fine-tune BERT pour classification |
 
----
+## 📌 Featured Projects
+- 🏫 [Student Management System](https://github.com/morino237/student-management) – A Spring Boot + MySQL project  
+- 📚 [Library App](https://github.com/morino237/library-app) – Java + MySQL  
+- ✅ [Tourism Magement with springboot](https://github.com/morino237/todolist-swing) – GUI + SQLite + springboot +spring security + Augular 
 
 ## 📈 Contribution / Activity
 <p align="center">
