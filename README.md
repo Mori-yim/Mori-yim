@@ -13,6 +13,39 @@
   <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/avatar.svg" width="160" alt="avatar" style="border-radius:12px"/>
 </p>
 
+
+<!-- assets/avatar.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="28" fill="url(#g)"/>
+  <!-- Glasses -->
+  <g transform="translate(60,100)" fill="#fff" opacity="0.95">
+    <ellipse cx="150" cy="110" rx="70" ry="48" fill="#0f172a"/>
+    <ellipse cx="290" cy="110" rx="70" ry="48" fill="#0f172a"/>
+    <rect x="220" y="98" width="40" height="8" rx="4" fill="#0f172a"/>
+  </g>
+  <!-- Head -->
+  <g transform="translate(110,80)">
+    <circle cx="200" cy="150" r="100" fill="#fce7f3"/>
+    <!-- Hair -->
+    <path d="M140 80 Q200 20, 260 80 Q230 50, 200 60 Q170 50, 140 80Z" fill="#0f172a"/>
+    <!-- Smile -->
+    <path d="M165 190 Q200 220, 235 190" stroke="#0f172a" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+  <!-- Code braces -->
+  <g transform="translate(40,300)" fill="#fff" opacity="0.85">
+    <text x="0" y="40" font-family="monospace" font-size="40" font-weight="700">{ }</text>
+  </g>
+</svg>
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ---
 
 ## À propos
@@ -20,7 +53,7 @@
 
 - 🔭 Je travaille sur : projets full-stack (Angular / Spring Boot), APIs, MLOps et modèles NLP.
 - 🌱 Je me forme en : Deep Learning, Vision et LLM fine-tuning.
-- 👯 Je peux contribuer à : architecture backend, APIs scalables, intégration IA.
+- 👯 Je peux contribuer à : architecture backend, APIs REST, intégration IA.
 - 📫 Contact : EMAIL — [Portfolio](PORTFOLIO_URL)
 
 ---
