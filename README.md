@@ -1,6 +1,8 @@
 <!-- README.md - Profile for USERNAME -->
 <h1 align="center">Bonjour 👋, je suis <b>MORINO YIMFACK</b> — Développeur Full-Stack junior & Chercheur IA</h1>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Gif développeur">
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=flat-square" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Location-LOCATION-blue?style=flat-square" alt="Location" />
@@ -123,11 +125,9 @@
 
 ---
 
-## ⚡ Tips pour me contacter
-- Email :  
-- LinkedIn : https://www.linkedin.com/in/USERNAME  
-- Portfolio : PORTFOLIO_URL
+## 📫 How to reach me
+- Email:  morinoyimfack10@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/morino-yimfack-94599b364)
 
 ---
-
-> Si tu veux je peux personnaliser encore plus (couleurs, GIF de bannière, cartes personnalisées, ou construire une page HTML d'accueil liée au profil). 
+ 
