@@ -1,5 +1,5 @@
 <!-- README.md - Profile for USERNAME -->
-<h1 align="center">Bonjour 👋, je suis <b>MORINO YIMFACK</b> — Développeur Full-Stack junior & Chercheur IA</h1>
+<h1 align="center">Bonjour 👋, je suis <b>MORINO YIMFACK</b> — Développeur Full-Stack junior, Data analyst junior & Aspirant Machine learning enginner</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Gif développeur">
 </p>
