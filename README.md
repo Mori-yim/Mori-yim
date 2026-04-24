@@ -117,10 +117,10 @@ Je suis un **développeur passionné** avec une double compétence en **dévelop
 ##  Contact & Réseaux
 
 <p align="center">
-  <a href="mailto:morinoyimfack10@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?hl=fr#inbox">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/morino-yimfack-94599b364">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/votre-pseudo">
