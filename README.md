@@ -16,14 +16,14 @@
   <img src="https://img.shields.io/badge/Contact-morinoyimfack10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </p>
 
-<!-- Avatar SVG intégré -->
+<!-- Avatar -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MORINO237/MORINO237/main/assets/avatar.svg" width="160" alt="Avatar" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"/>
 </p>
 
 ---
 
-## 🧑‍💻 À propos de moi
+##  À propos de moi
 
 Je suis un **développeur passionné** avec une double compétence en **développement Full-Stack** et en **analyse de données**. Actuellement en phase d'approfondissement en **Machine Learning**, je cherche à allier le génie logiciel à l'intelligence artificielle pour créer des solutions innovantes.
 
