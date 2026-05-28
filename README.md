@@ -83,9 +83,10 @@ Je suis un **développeur passionné** avec une double compétence en **dévelop
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mori-yim&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Stats GitHub" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mori-yim&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-[![trophy](https://github-profile-trophy.vercel.app/api/?username=mori-yim&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/api/?username=mori-yim&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Git hubs" width="50%"/>
+    [![trophy](https://github-profile-trophy.vercel.app/api/?username=mori-yim&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mori-yim=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori-yim&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Langages les plus utilisés" width="45%" />
 </p>
