@@ -83,6 +83,7 @@ Je suis un **développeur passionné** avec une double compétence en **dévelop
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MORINO237&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Stats GitHub" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MORINO237&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+[![trophy](https://github-profile-trophy.vercel.app/api/?username=mori-yim&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="center">
