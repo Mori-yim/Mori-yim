@@ -10,9 +10,9 @@
 ![Location](https://img.shields.io/badge/Location-Cameroon-ff69b4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-Full%20Stack%20%7C%20DevOps-8A2BE2?style=for-the-badge&logo=stackoverflow&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON-PSEUDO-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morino-yimfack-627a3737a/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morinoyimfack10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ton-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio2-lemon-five.vercel.app/)
 
 <img src="https://komarev.com/ghpvc/?username=Mori-yim&label=Visiteurs+du+profil&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-## 🧭 À propos de moi
+##  À propos de moi
 
 Développeur **Full-Stack** basé au Cameroun, spécialisé en **React**, **Angular**, **Spring Boot** et **PostgreSQL**. Je conçois des applications complètes — de l'interface utilisateur à l'architecture backend — avec une attention particulière portée à la fiabilité, à la qualité du code et à la documentation.
 
