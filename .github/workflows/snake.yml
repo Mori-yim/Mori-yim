@@ -1,0 +1,35 @@
+name: Génération de la snake animation
+
+on:
+  # Se relance automatiquement chaque jour à 00h00 UTC pour rester à jour
+  schedule:
+    - cron: "0 0 * * *"
+  # Permet de la lancer manuellement depuis l'onglet Actions
+  workflow_dispatch: {}
+  # La relance aussi à chaque push sur la branche principale
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Générer les fichiers de la snake animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Mori-yim
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publier le résultat sur la branche "output"
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
