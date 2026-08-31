@@ -25,10 +25,10 @@
 Développeur **Full-Stack** basé au Cameroun, spécialisé en **React**, **Angular**, **Spring Boot** et **PostgreSQL**. Je conçois des applications complètes — de l'interface utilisateur à l'architecture backend — avec une attention particulière portée à la fiabilité, à la qualité du code et à la documentation.
 
 Mon projet le plus significatif à ce jour est un **module ERP complet de génération de rapports professionnels** (bons de commande, factures, avoirs), intégré à un système de gestion d'entreprise multi-modules :
-- 🧩 Moteur de rendu dynamique (glisser-déposer + HTML/CSS) éliminant les chevauchements sur des documents multi-pages
-- 🔌 API REST documentée (Swagger/OpenAPI) consommée par plusieurs modules métier (Facturation, Stock, Référentiel...)
-- ✅ Tests d'intégration réels (Testcontainers, PostgreSQL) — chaque correction validée par exécution, pas seulement par relecture
-- 📄 Système de templates versionnés (catalogue par société, dictionnaire de variables, export PDF/Word/Excel)
+-  Moteur de rendu dynamique (glisser-déposer + HTML/CSS) éliminant les chevauchements sur des documents multi-pages
+-  API REST documentée (Swagger/OpenAPI) consommée par plusieurs modules métier (Facturation, Stock, Référentiel...)
+-  Tests d'intégration réels (Testcontainers, PostgreSQL) — chaque correction validée par exécution, pas seulement par relecture
+-  Système de templates versionnés (catalogue par société, dictionnaire de variables, export PDF/Word/Excel)
 
 Actuellement en formation **DevOps** (Docker, CI/CD, Kubernetes) pour livrer mes applications de bout en bout : du code jusqu'au déploiement. J'ai également une expérience antérieure en **Machine Learning**, qui m'apporte une approche orientée données dans la façon dont j'aborde les problèmes.
 
@@ -36,25 +36,25 @@ Actuellement en formation **DevOps** (Docker, CI/CD, Kubernetes) pour livrer mes
 <tr>
 <td>
 
-🔭 **Je travaille actuellement sur**
+ **Je travaille actuellement sur**
 Projets full-stack (Angular/React + Spring Boot), conception d'API REST
 
-🌱 **Je me forme en**
-Docker, CI/CD, Kubernetes, supervision d'applications en production
+ **Je me forme en**
+Docker, CI/CD, Kubernetes, supervision d'applications en production,Machine Learning
 
-🤝 **Je cherche à collaborer sur**
+ **Je cherche à collaborer sur**
 Architecture backend, conception d'API, projets open source
 
 </td>
 <td>
 
-💬 **Posez-moi des questions sur**
+ **Posez-moi des questions sur**
 Spring Boot, Angular, React, PostgreSQL, conception d'API, debug complexe
 
-📫 **Pour me contacter**
+ **Pour me contacter**
 morinoyimfack10@gmail.com
 
-⚡ **Fun fact**
+ **Fun fact**
 Je transforme le café en code depuis plusieurs années ☕ → 💻
 
 </td>
@@ -63,7 +63,7 @@ Je transforme le café en code depuis plusieurs années ☕ → 💻
 
 ---
 
-## 🛠️ Stack technique
+##  Stack technique
 
 <div align="center">
 
@@ -100,7 +100,7 @@ Je transforme le café en code depuis plusieurs années ☕ → 💻
 
 ---
 
-## ⚙️ Comment je travaille
+##  Comment je travaille
 
 - **Je vérifie par l'exécution, pas par la lecture** — chaque correctif est testé réellement (build, tests, appels API) avant d'être considéré comme résolu
 - **Je documente ce que je livre** — API documentées (Swagger/OpenAPI), rapports AVANT/CAUSE/CORRECTION/APRÈS pour les bugs complexes
@@ -108,20 +108,20 @@ Je transforme le café en code depuis plusieurs années ☕ → 💻
 
 ---
 
-## 📌 Projets phares
+##  Projets phares
 
 | Projet | Description | Stack |
 |---|---|---|
-| 🧾 **ERP – Module de conception de rapports** | Moteur de génération de documents pro (bons de commande, factures, avoirs) : glisser-déposer, API REST documentée, versionning des templates, export PDF/Word/Excel | `Angular` `Spring Boot` `PostgreSQL` |
-| ⚙️ **[projets-with-Spring](https://github.com/Mori-yim/projets-with-Spring)** | Collection de projets backend réalisés avec Spring | `Java` `Spring` |
-| 🎓 **[Java-Evenementielle](https://github.com/Mori-yim/Java-Evenementielle)** | Projets de programmation événementielle en Java | `Java` |
-| 🌐 **[MoriSitesWeb](https://github.com/Mori-yim/MoriSitesWeb)** | Sites web front-end | `HTML` `CSS` |
+|  **ERP – Module de conception de rapports** | Moteur de génération de documents pro (bons de commande, factures, avoirs) : glisser-déposer, API REST documentée, versionning des templates, export PDF/Word/Excel | `Angular` `Spring Boot` `PostgreSQL` |
+|  **[projets-with-Spring](https://github.com/Mori-yim/projets-with-Spring)** | Collection de projets backend réalisés avec Spring | `Java` `Spring` |
+|  **[Java-Evenementielle](https://github.com/Mori-yim/Java-Evenementielle)** | Projets de programmation événementielle en Java | `Java` |
+|  **[MoriSitesWeb](https://github.com/Mori-yim/MoriSitesWeb)** | Sites web front-end | `HTML` `CSS` |
 
-> 💡 Épingle tes 6 meilleurs dépôts (icône ⭐ sur ta page de profil) pour qu'ils s'affichent ici à la place de la liste automatique — c'est ce qu'un recruteur regarde en premier.
+
 
 ---
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 <div align="center">
 
@@ -144,11 +144,10 @@ Je transforme le café en code depuis plusieurs années ☕ → 💻
 
 </div>
 
-> ⚙️ Cette animation est générée automatiquement chaque jour par un workflow GitHub Actions (fichier fourni ci-dessous). Elle n'apparaîtra qu'une fois le workflow activé une première fois.
 
 ---
 
-## 🎯 Objectifs
+##  Objectifs
 
 - [ ] Rendre publics 2-3 de mes meilleurs projets avec un README détaillé (contexte, captures d'écran, techs)
 - [ ] Contribuer à au moins un projet open source
