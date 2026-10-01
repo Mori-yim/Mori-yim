@@ -26,7 +26,7 @@ Développeur **Full-Stack** basé au Cameroun, spécialisé en **React**, **Angu
 
 Mon projet le plus significatif à ce jour est un **module ERP complet de génération de rapports professionnels** (bons de commande, factures, avoirs), intégré à un système de gestion d'entreprise multi-modules :
 -  Moteur de rendu dynamique (glisser-déposer + HTML/CSS) éliminant les chevauchements sur des documents multi-pages
--  API REST documentée (Swagger/OpenAPI) consommée par plusieurs modules métier (Facturation, Stock, Référentiel, etc...)
+-  API REST documentée (Swagger/OpenAPI) consommée par plusieurs modules métier (Hierachie, Facturation, Stock, Référentiel, etc...)
 -  Tests d'intégration réels (Testcontainers,SonarQur, PostgreSQL) — chaque correction validée par exécution, pas seulement par relecture
 -  Système de templates versionnés (catalogue par société, dictionnaire de variables, export PDF/Word/Excel)
 
