@@ -30,7 +30,7 @@ Mon projet le plus significatif à ce jour est un **module ERP complet de géné
 -  Tests d'intégration réels (Testcontainers, PostgreSQL) — chaque correction validée par exécution, pas seulement par relecture
 -  Système de templates versionnés (catalogue par société, dictionnaire de variables, export PDF/Word/Excel)
 
-Actuellement en formation **DevOps** (Docker, CI/CD, Kubernetes) pour livrer mes applications de bout en bout : du code jusqu'au déploiement. J'ai également une expérience antérieure en **Machine Learning**, qui m'apporte une approche orientée données dans la façon dont j'aborde les problèmes.
+Actuellement en formation **DevOps** (Docker, CI/CD, Kubernetes,Terraform,Ansible,grafana) pour livrer mes applications de bout en bout : du code jusqu'au déploiement. J'ai également une expérience antérieure en **Machine Learning**, qui m'apporte une approche orientée données dans la façon dont j'aborde les problèmes.
 
 <table>
 <tr>
